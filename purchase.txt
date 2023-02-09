@@ -1,0 +1,4 @@
+1 --> {'Date': '21.10.22', 'Group': 'Health.💊', 'Price  grn ': 6, 'Comment: ': 'r'}
+2 --> {'Date': '08.11.22', 'Group': 'Health.💊', 'Price  grn ': 333, 'Comment: ': '33'}
+3 --> {'Date': '16,01,23', 'Group': 'Other.🎁', 'Price  grn ': 99}
+5 --> {'Date': '19.01.23', 'Group': 'Clothes.👕', 'Price  grn ': 58, 'Comment: ': 't_short'}

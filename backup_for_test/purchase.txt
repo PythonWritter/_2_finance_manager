@@ -1,0 +1,35 @@
+1 --> {'Date': '01.10.22', 'Group': 'Clothes.👕', 'Price  grn ': 444}
+2 --> {'Date': '02.10.22', 'Group': 'Food.🛒', 'Price  grn ': 444}
+3 --> {'Date': '03.10.22', 'Group': 'Clothes.👕', 'Price  grn ': 444}
+4 --> {'Date': '04.10.22', 'Group': 'Personal.💪', 'Price  grn ': 23}
+5 --> {'Date': '05.10.22', 'Group': 'Health.💊', 'Price  grn ': 56}
+6 --> {'Date': '06.10.22', 'Group': 'Personal.💪', 'Price  grn ': 45}
+7 --> {'Date': '07.10.22', 'Group': 'Food.🛒', 'Price  grn ': 45}
+8 --> {'Date': '08.10.22', 'Group': 'Clothes.👕', 'Price  grn ': 67}
+9 --> {'Date': '09.10.22', 'Group': 'Health.💊', 'Price  grn ': 77}
+10 --> {'Date': '10.10.22', 'Group': 'Personal.💪', 'Price  grn ': 432}
+11 --> {'Date': '11.10.22', 'Group': 'Food.🛒', 'Price  grn ': 54}
+12 --> {'Date': '11.10.22', 'Group': 'Health.💊', 'Price  grn ': 4567}
+13 --> {'Date': '13.10.22', 'Group': 'Food.🛒', 'Price  grn ': 33}
+14 --> {'Date': '13.10.22', 'Group': 'Clothes.👕', 'Price  grn ': 44}
+15 --> {'Date': '13.10.22', 'Group': 'Personal.💪', 'Price  grn ': 55}
+16 --> {'Date': '13.10.22', 'Group': 'Other.🎁', 'Price  grn ': 6}
+17 --> {'Date': '13.10.22', 'Group': 'Special.＄', 'Price  grn ': 77}
+18 --> {'Date': '13.10.22', 'Group': 'Health.💊', 'Price  grn ': 33}
+19 --> {'Date': '13.10.22', 'Group': 'Special.＄', 'Price  grn ': 44}
+21 --> {'Date': '13.10.22', 'Group': 'Clothes.👕', 'Price  grn ': 22}
+24 --> {'Date': '13.10.22', 'Group': 'Special.＄', 'Price  grn ': 44}
+25 --> {'Date': '13.10.22', 'Group': 'Food.🛒', 'Price  grn ': 1}
+29 --> {'Date': '18.10.22', 'Group': 'Clothes.👕', 'Price  grn ': 44}
+30 --> {'Date': '18.10.22', 'Group': 'Food.🛒', 'Price  grn ': 55}
+33 --> {'Date': '18.10.22', 'Group': 'Health.💊', 'Price  grn ': 33}
+34 --> {'Date': '19.10.22', 'Group': 'Other.🎁', 'Price  grn ': 5}
+36 --> {'Date': '19.10.22', 'Group': 'Food.🛒', 'Price  grn ': 1}
+37 --> {'Date': '18.10.22', 'Group': 'Food.🛒', 'Price  grn ': 21}
+38 --> {'Date': '18.10.22', 'Group': 'Clothes.👕', 'Price  grn ': 222}
+39 --> {'Date': '18.10.22', 'Group': 'Health.💊', 'Price  grn ': 33}
+40 --> {'Date': '19.10.22', 'Group': 'Other.🎁', 'Price  grn ': 55555, 'Comment: ': 'spesh'}
+42 --> {'Date': '20.10.22', 'Group': 'Clothes.👕', 'Price  grn ': 432, 'Comment: ': 'retro'}
+45 --> {'Date': '19.10.22', 'Group': 'Food.🛒', 'Price  grn ': 44}
+43 --> {'Date': '21.10.22', 'Group': 'Health.💊', 'Price  grn ': 6, 'Comment: ': 'r'}
+48 --> {'Date': '08.10.22', 'Group': 'Health.💊', 'Price  grn ': 333, 'Comment: ': '33'}
