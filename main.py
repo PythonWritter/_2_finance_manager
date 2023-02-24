@@ -1,8 +1,8 @@
 import sys
 import time
-
-import collections
 import json
+import collections
+
 
 class Functions():
     """ Main functions for writing data in file. """
