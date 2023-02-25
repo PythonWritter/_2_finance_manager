@@ -14,7 +14,7 @@ Python 3.10+
 - Displaying Past Indicators by Merchandise Group
 
 ### Repository Content
-Dir - backup_for_test (you can unarchiving to test)
+Dir - backup_for_test (you can unarchiving to test this app with more completed purchases)
 
 File - data.json
 
@@ -31,7 +31,7 @@ For сollections library operation
 This is all your purchases
 
 ### main.py
-Main file with Code
+Main file with code
 
 ### Start of work
 For work, run file main.py
